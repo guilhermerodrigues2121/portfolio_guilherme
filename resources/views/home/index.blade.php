@@ -11,17 +11,6 @@
             </div>
         </div>
     </div>
-    <!-- Loader End -->
-
-    <!-- Menu & Menu Hamburger Start -->
-    
-    <!-- Menu & Menu Hamburger End -->
-
-    <!-- Header Start -->
-    
-    <!-- Header End -->
-
-    <!-- Page Content Start -->
     <main id="mxd-page-content" class="mxd-page-content">
 
         <!-- Hero Section Start -->
