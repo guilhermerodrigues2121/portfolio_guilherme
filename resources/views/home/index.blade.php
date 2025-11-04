@@ -1,6 +1,7 @@
 @extends('layout.app')
 @section('content')
     <!-- Loader Start -->
+    
     <div id="loader" class="loader">
         <div class="loader__wrapper">
             <div class="loader__content">
