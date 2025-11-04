@@ -19,6 +19,8 @@
         <livewire:projectsection>
         <livewire:educationsection>
         <livewire:workssection>
+        <livewire:captionsection>
+            
     </main>
     <!-- Page Content End -->
 
