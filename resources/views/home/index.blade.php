@@ -14,7 +14,8 @@
     </div>
     <main id="mxd-page-content" class="mxd-page-content">
 
-        <livewire:herosection/>
+        <livewire:herosection>
+        <livewire:projectsection>
 
         
 
