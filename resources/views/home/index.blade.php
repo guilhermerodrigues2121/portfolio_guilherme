@@ -18,6 +18,7 @@
         <livewire:who-we-are>
         <livewire:projectsection>
         <livewire:educationsection>
+        <livewire:workssection>
     </main>
     <!-- Page Content End -->
 
