@@ -98,7 +98,7 @@
                             'Disciplina',
                             'Proatividade',
                             'Organização',
-                            'Gestão De Tempo'
+                            'Gestão De Tempo',
                             'Aprendizado Rápido',
                             'Trabalho em Equipe',
                             'Pacote Office',
