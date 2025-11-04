@@ -17,9 +17,7 @@
         <livewire:herosection>
         <livewire:who-we-are>
         <livewire:projectsection>
-
-        
-
+        <livewire:educationsection>
     </main>
     <!-- Page Content End -->
 
