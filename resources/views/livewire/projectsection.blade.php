@@ -23,14 +23,14 @@
                                 <p class="anim-uni-in-up">Explore a selection of projects blending<br>creativity with practical design</p>
                               </div>
                             </div>
-                            <div class="col-12 mxd-grid-item no-margin">
+                            {{-- <div class="col-12 mxd-grid-item no-margin">
                               <div class="mxd-section-title__controls anim-uni-in-up">
                                 <a class="btn btn-anim btn-default btn-outline slide-right-up" href="works-simple.html">
                                   <span class="btn-caption">All Works</span>
                                   <i class="ph-bold ph-arrow-up-right"></i>
                                 </a>
                               </div>
-                            </div>
+                            </div> --}}
                           </div>
                         </div>
                       </div>
@@ -52,7 +52,7 @@
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a class="anim-uni-in-up" href="project-details.html"><span>Creative studio</span> template for modern agencies</a>
+                            <a class="anim-uni-in-up" href="project-details.html"><span>Streamit</span> template for modern agencies</a>
                           </div>
                         </div>
                       </div>
@@ -68,7 +68,7 @@
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a class="anim-uni-in-up" href="project-details.html"><span>Interactive concept</span> powered by AI</a>
+                            <a class="anim-uni-in-up" href="project-details.html"><span>Accounto</span> powered by AI</a>
                           </div>
                         </div>
                       </div>
@@ -84,7 +84,7 @@
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a href="project-details.html"><span>Mobile app design</span> for a cross-platform solution</a>
+                            <a href="project-details.html"><span>Scaleup</span> for a cross-platform solution</a>
                           </div>
                         </div>
                       </div>
@@ -99,7 +99,7 @@
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a class="anim-uni-in-up" href="project-details.html"><span>NFT project</span> branding</a>
+                            <a class="anim-uni-in-up" href="project-details.html"><span>Agenix</span> branding</a>
                           </div>
                         </div>
                       </div>
@@ -115,7 +115,7 @@
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a class="anim-uni-in-up" href="project-details.html"><span>Illustrations set</span> for digital and print use</a>
+                            <a class="anim-uni-in-up" href="project-details.html"><span>NextHire</span> for digital and print use</a>
                           </div>
                         </div>
                       </div>

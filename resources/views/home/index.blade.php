@@ -15,6 +15,7 @@
     <main id="mxd-page-content" class="mxd-page-content">
 
         <livewire:herosection>
+        <livewire:who-we-are>
         <livewire:projectsection>
 
         
