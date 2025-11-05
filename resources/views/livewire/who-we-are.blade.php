@@ -24,8 +24,7 @@
                 <div class="col-12 col-xl-7 mxd-grid-item no-margin">
                   <div class="mxd-block__content">
                     <div class="mxd-block__manifest">
-                      <p class="mxd-manifest reveal-type anim-uni-in-up">We are a creative digital agency specializing in innovative design 
-                        and cutting-edge development.</p>
+                      <p class="mxd-manifest reveal-type anim-uni-in-up">Eu sou Guilherme, um apaixonado por tecnologia e inovação, sempre focado em aprender e criar soluções que fazem a diferença.</p>
                       
                     </div>
                   </div>

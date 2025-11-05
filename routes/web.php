@@ -3,6 +3,14 @@
 use Illuminate\Support\Facades\Route;
 use Laravel\Fortify\Features;
 use Livewire\Volt\Volt;
+use Illuminate\Support\Facades\Storage;
+
+Route::get('/baixar-relatorio', function () {
+    $path = 'curriculo.pdf'; // caminho dentro de storage/app
+
+    return Storage::download($path);
+});
+
 
 Route::get('/', function () {
     return view('home.index');

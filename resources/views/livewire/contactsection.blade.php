@@ -16,7 +16,7 @@
                     <span class="mxd-promo__caption reveal-type">Vamos Conversar?</span>
                   </p>
                   <div class="mxd-promo__controls anim-uni-in-up">
-                    <a class="btn btn-anim btn-default btn-large btn-additional slide-right-up" href="contact.html">
+                    <a class="btn btn-anim btn-default btn-large btn-additional slide-right-up" href="https://api.whatsapp.com/send/?phone=5561993081190&text&type=phone_number&app_absent=0">
                       <span class="btn-caption">Contato</span>
                       <i class="ph-bold ph-arrow-up-right"></i>
                     </a>

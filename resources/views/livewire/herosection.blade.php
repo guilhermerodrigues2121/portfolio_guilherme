@@ -7,7 +7,7 @@
                         <div class="mxd-hero-04__imageblock loading__item">
                             <div class="hero-04-imageblock__btn">
                                 <a class="btn btn-round btn-round-medium btn-base slide-right-up anim-no-delay"
-                                    href="about-us.html">
+                                    href="https://docs.google.com/document/d/1EYAETVr18J0m0I1FbW2EVdvKeLY2f-4x/edit?usp=sharing&ouid=106065304015807484478&rtpof=true&sd=true">
                                     <i class="ph-bold ph-arrow-up-right"></i>
                                 </a>
                             </div>

@@ -84,7 +84,7 @@
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a href="project-details.html"><span>Scaleup</span> Site De Avaliação comercial</a>
+                            <a href="project-details.html"><span>GreenEnergy</span> Site Da industria verde</a>
                           </div>
                         </div>
                       </div>
@@ -99,7 +99,7 @@
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a class="anim-uni-in-up" href="project-details.html"><span>Agenix</span> Site de Agencia</a>
+                            <a class="anim-uni-in-up" href="project-details.html"><span>CraftoUp</span> Site de Avaliação comercial</a>
                           </div>
                         </div>
                       </div>
@@ -108,14 +108,14 @@
                         <a class="mxd-project-item__media anim-uni-in-up" href="project-details.html">
                           <div class="mxd-project-item__preview preview-image-5 parallax-img-small"></div>
                           <div class="mxd-project-item__tags">
-                            <span class="tag tag-default tag-permanent">Rh</span>
+                            <span class="tag tag-default tag-permanent">Branding</span>
                             <span class="tag tag-default tag-permanent">Design</span>
                             <span class="tag tag-default tag-permanent">Responsivo</span>
                           </div>
                         </a>
                         <div class="mxd-project-item__promo">
                           <div class="mxd-project-item__name">
-                            <a class="anim-uni-in-up" href="project-details.html"><span>NextHire</span> Site de Contratação</a>
+                            <a class="anim-uni-in-up" href="project-details.html"><span>Branding</span> Site de posicionamento digital</a>
                           </div>
                         </div>
                       </div>
