@@ -47,17 +47,13 @@
                     </g>
                 </svg>
                 <!-- logo text -->
-                <span class="mxd-logo__text">rayo<br>template</span>
+                <span class="mxd-logo__text">Guilherme<br>Rodrigues</span>
             </a>
         </div>
         <!-- header controls -->
         <div class="mxd-header__controls loading__fade">
             <button id="color-switcher" class="mxd-color-switcher" type="button" role="switch"
                 aria-label="light/dark mode" aria-checked="true"></button>
-            <a class="btn btn-anim btn-default btn-mobile-icon btn-outline slide-right"
-                href="https://1.envato.market/kOvmWN" target="_blank">
-                <span class="btn-caption">Purchase</span>
-                <i class="ph-bold ph-shopping-cart-simple"></i>
-            </a>
+            
         </div>
     </header>

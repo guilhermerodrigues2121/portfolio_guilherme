@@ -13,12 +13,7 @@
                   </div>
                   <div class="col-12 col-xl-3 mxd-grid-item no-margin"></div>
                   <div class="col-12 col-xl-3 mxd-grid-item no-margin">
-                    <div class="mxd-section-title__hrcontrols pre-title anim-uni-in-up">
-                      <a class="btn btn-anim btn-default btn-outline slide-right-up" href="about-us.html">
-                        <span class="btn-caption">View More</span>
-                        <i class="ph-bold ph-arrow-up-right"></i>
-                      </a>
-                    </div>
+                    
                   </div>
                 </div>
               </div>
@@ -30,11 +25,9 @@
           <div class="mxd-block">
             <div class="mxd-awards-list hover-reveal">
               <!-- item -->
-              <a class="mxd-awards-list__item hover-reveal__item" href="https://medium.com/" target="_blank">
+              <a class="mxd-awards-list__item hover-reveal__item"  target="_blank">
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
-                <div class="hover-reveal__content overflow-visible hover-reveal-260x260">
-                  <img class="hover-reveal__image" src="https://dummyimage.com/500x500/5d5d5d/737373" alt="Project Preview">
-                </div>
+                
                 <div class="mxd-awards-list__inner">
                   <div class="container-fluid px-0">
                     <div class="row gx-0">
@@ -47,16 +40,7 @@
                         </div>
                       </div>
                       <div class="col-6 col-md-6 col-xl-2 mxd-grid-item no-margin">
-                        <div class="mxd-awards-list__tagslist">
-                          <ul>
-                            <li class="anim-uni-in-up">
-                              <p class="t-small">UI/UX design</p>
-                            </li>
-                            <li class="anim-uni-in-up">
-                              <p class="t-small">Development</p>
-                            </li>
-                          </ul>
-                        </div>
+                        
                         
                       </div>
                       <div class="col-6 col-md-6 col-xl-2 mxd-grid-item no-margin">
@@ -70,11 +54,9 @@
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
               </a>
               <!-- item -->
-              <a class="mxd-awards-list__item hover-reveal__item" href="https://www.awwwards.com/" target="_blank">
+              <a class="mxd-awards-list__item hover-reveal__item"  target="_blank">
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
-                <div class="hover-reveal__content overflow-visible hover-reveal-260x260">
-                  <img class="hover-reveal__image" src="https://dummyimage.com/500x500/5d5d5d/737373" alt="Project Preview">
-                </div>
+                
                 <div class="mxd-awards-list__inner">
                   <div class="container-fluid px-0">
                     <div class="row gx-0">
@@ -87,16 +69,7 @@
                         </div>
                       </div>
                       <div class="col-6 col-md-6 col-xl-2 mxd-grid-item no-margin">
-                        <div class="mxd-awards-list__tagslist">
-                          <ul>
-                            <li class="anim-uni-in-up">
-                              <p class="t-small">UI/UX</p>
-                            </li>
-                            <li class="anim-uni-in-up">
-                              <p class="t-small">Frontend</p>
-                            </li>
-                          </ul>
-                        </div>
+                        
                         
                       </div>
                       <div class="col-6 col-md-6 col-xl-2 mxd-grid-item no-margin">
@@ -110,11 +83,9 @@
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
               </a>
               <!-- item -->
-              <a class="mxd-awards-list__item hover-reveal__item" href="https://www.behance.net/" target="_blank">
+              <a class="mxd-awards-list__item hover-reveal__item"  target="_blank">
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
-                <div class="hover-reveal__content overflow-visible hover-reveal-260x260">
-                  <img class="hover-reveal__image" src="https://dummyimage.com/500x500/5d5d5d/737373" alt="Project Preview">
-                </div>
+                
                 <div class="mxd-awards-list__inner">
                   <div class="container-fluid px-0">
                     <div class="row gx-0">
@@ -154,11 +125,9 @@
                 </div>
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
               </a>
-              <a class="mxd-awards-list__item hover-reveal__item" href="https://www.behance.net/" target="_blank">
+              <a class="mxd-awards-list__item hover-reveal__item" target="_blank">
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
-                <div class="hover-reveal__content overflow-visible hover-reveal-260x260">
-                  <img class="hover-reveal__image" src="https://dummyimage.com/500x500/5d5d5d/737373" alt="Project Preview">
-                </div>
+                
                 <div class="mxd-awards-list__inner">
                   <div class="container-fluid px-0">
                     <div class="row gx-0">
@@ -193,11 +162,9 @@
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
               </a>
               <!-- item -->
-              <a class="mxd-awards-list__item hover-reveal__item" href="https://medium.com/" target="_blank">
+              <a class="mxd-awards-list__item hover-reveal__item" href="https://mate.academy/pt-br" target="_blank">
                 <div class="mxd-awards-list__border anim-uni-in-up"></div>
-                <div class="hover-reveal__content overflow-visible hover-reveal-260x260">
-                  <img class="hover-reveal__image" src="https://dummyimage.com/500x500/5d5d5d/737373" alt="Project Preview">
-                </div>
+                
                 <div class="mxd-awards-list__inner">
                   <div class="container-fluid px-0">
                     <div class="row gx-0">
@@ -219,7 +186,10 @@
                               <p class="t-small">Frontend</p>
                             </li>
                             <li class="anim-uni-in-up">
-                              <p class="t-small">Frontend</p>
+                              <p class="t-small">Backend</p>
+                            </li>
+                            <li class="anim-uni-in-up">
+                              <p class="t-small">Python</p>
                             </li>
                           </ul>
                         </div>

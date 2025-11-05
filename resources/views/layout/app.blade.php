@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
 
     <!-- Page Title -->
-    <title>Rayo - Digital Agency & Personal Portfolio HTML Template</title>
+    <title>Guilherme Rodrigues</title>
 
     <!-- Meta Tags -->
-    <meta name="description" content="Elevate your digital presence with Rayo - dynamic and stylish HTML template designed for creative agencies and personal brands. With modern layouts, smooth interactions and a polished aesthetic, Rayo template helps showcase projects, services and expertise with clarity and impact.">
-    <meta name="keywords" content="mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean">
-    <meta name="author" content="mix_design">
+    <meta name="description" content="Portfolio pessoal do guilherme rodrigues">
+    <meta name="keywords" content="guilherme_rodrigues, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean,jovem aprendiz,">
+    <meta name="author" content="guilherme_rodrigues">
 
     <!-- Viewport Meta-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,7 +18,7 @@
 
     <!-- Template Favicon & Icons Start -->
     <link rel="icon" href="{{ asset("assets/img/favicon/favicon.ico") }}" sizes="any">
-    <link rel="icon" href="{{ asset("assets/img/favicon/icon.svg") }}") }}" type="image/svg+xml">
+    <link rel="icon" href="{{ asset("assets/img/favicon/icon.svg") }}" type="image/svg+xml">
     <link rel="apple-touch-icon" href="{{ asset("assets/img/favicon/apple-touch-icon.png") }}">
     <link rel="manifest" href="{{ asset("assets/img/favicon/manifest.webmanifest") }}">
     <!-- Template Favicon & Icons End -->
@@ -26,10 +26,10 @@
     <!-- Facebook Metadata Start -->
     <meta property="og:image:height" content="1200">
     <meta property="og:image:width" content="1200">
-    <meta property="og:title" content="Rayo - Digital Agency & Personal Portfolio HTML Template">
-    <meta property="og:description" content="Elevate your digital presence with Rayo - dynamic and stylish HTML template designed for creative agencies and personal brands. With modern layouts, smooth interactions and a polished aesthetic, Rayo template helps showcase projects, services and expertise with clarity and impact.">
-    <meta property="og:url" content="https://mixdesign.dev/themeforest/rayo">
-    <meta property="og:image" content="https://mixdesign.dev/themeforest/rayo/assets/img/og-image.jpg">
+    <meta property="og:title" content="Guilherme Rodrigues">
+    <meta property="og:description" content="Guilherme Rodrigues">
+    <meta property="og:url" content="Guilherme Rodrigues">
+
     <!-- Facebook Metadata End -->
 
     <!-- Template Styles Start -->

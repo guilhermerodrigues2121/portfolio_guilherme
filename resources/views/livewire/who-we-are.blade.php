@@ -26,12 +26,7 @@
                     <div class="mxd-block__manifest">
                       <p class="mxd-manifest reveal-type anim-uni-in-up">We are a creative digital agency specializing in innovative design 
                         and cutting-edge development.</p>
-                      <div class="mxd-manifest__controls anim-uni-in-up">
-                        <a class="btn btn-anim btn-default btn-outline slide-right-up anim-uni-in-up" href="contact.html">
-                          <span class="btn-caption">Say Hello</span>
-                          <i class="ph-bold ph-arrow-up-right"></i>
-                        </a>
-                      </div>
+                      
                     </div>
                   </div>
                 </div>
